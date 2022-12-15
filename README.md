@@ -1,16 +1,21 @@
-### Hi there 👋
+### Konnichiwa 👋
 
-<!--
-**delrockz/delrockz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on MERN, AWS, Firebase, Docker
+- 🌱 I’m currently learning Kubernetes, Kafka, Redis
+- 💬 Ask me about financial markets
+- 📫 How to reach me: [Twitter](https://twitter.com/delrocks22), [YouTube](https://www.youtube.com/delrocks), [HackerRank](https://www.hackerrank.com/dxdelrocks)
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,azure,git,docker,selenium,mongodb,cassandra,graphql,mysql,postgres,react,vuejs,expressjs,nodejs,flask,django,html,css,tailwind,javascript,typescript,python,ruby,java,cs,dotnet&perline=7" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delrockz&theme=dark" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=delrockz&theme=dark" />
+</p>
+
+
+
